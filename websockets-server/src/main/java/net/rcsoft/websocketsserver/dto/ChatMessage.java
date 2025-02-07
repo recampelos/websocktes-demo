@@ -1,4 +1,4 @@
-package com.example.websockets_chat_server.dto;
+package net.rcsoft.websocketsserver.dto;
 
 import lombok.Builder;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.example.websockets_chat_server.dto;
+package net.rcsoft.websocketsserver.dto;
 
 public enum ChatMessageType {
     JOIN, LEAVE, MESSAGE

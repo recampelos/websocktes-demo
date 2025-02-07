@@ -1,7 +1,7 @@
-package com.example.websockets_chat_server.event;
+package net.rcsoft.websocketsserver.event;
 
-import com.example.websockets_chat_server.dto.ChatMessage;
-import com.example.websockets_chat_server.dto.ChatMessageType;
+import net.rcsoft.websocketsserver.dto.ChatMessage;
+import net.rcsoft.websocketsserver.dto.ChatMessageType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;

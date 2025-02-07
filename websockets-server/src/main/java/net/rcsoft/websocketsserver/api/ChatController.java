@@ -1,6 +1,6 @@
-package com.example.websockets_chat_server.api;
+package net.rcsoft.websocketsserver.api;
 
-import com.example.websockets_chat_server.dto.ChatMessage;
+import net.rcsoft.websocketsserver.dto.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;
